@@ -4,32 +4,6 @@
 
 ---
 
-<div align="center">
-  <!-- Furina -->
-  <div class="tenor-gif-embed" data-postid="1303159701685008645" data-share-method="host" data-aspect-ratio="1" data-width="120">
-    <a href="https://tenor.com/view/furina-gif-1303159701685008645">Furina GIF</a>
-  </div>
-  
-  <!-- Columbina -->
-  <div class="tenor-gif-embed" data-postid="9323831726004102652" data-share-method="host" data-aspect-ratio="1.76596" data-width="120">
-    <a href="https://tenor.com/view/genshin-impact-genshin-impact-columbina-genshin-impact-moon-maiden-genshin-impact-damselette-gi-columbina-gif-9323831726004102652">Columbina GIF</a>
-  </div>
-  
-  <!-- Oguri Cap -->
-  <div class="tenor-gif-embed" data-postid="16067088927845541316" data-share-method="host" data-aspect-ratio="1" data-width="120">
-    <a href="https://tenor.com/view/oguri-cap-chibi-cinderella-gray-uma-musume-oguri-gif-16067088927845541316">Oguri Cap GIF</a>
-  </div>
-  
-  <!-- Miku Nakano -->
-  <div class="tenor-gif-embed" data-postid="21661590" data-share-method="host" data-aspect-ratio="2.10526" data-width="120">
-    <a href="https://tenor.com/view/answer-me-the-quintessential-quintuplets-5toubun-no-hanayome-gif-21661590">Miku Nakano GIF</a>
-  </div>
-  
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
-
----
-
 ## 🧠 About Me
 
 I build systems that work — from hardware to software to simulation. My approach is practical, cost-aware, and performance-driven. I don't just make things work; I make them work *well*.
