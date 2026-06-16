@@ -5,10 +5,10 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/2z3V4qZ7tW0AAAAC/furina-genshin.gif" width="150"/>
-  <img src="https://media.tenor.com/XZ8X8X8X8X8AAAAC/columbina-genshin.gif" width="150"/>
-  <img src="https://media.tenor.com/Yz4V4qZ7tW0AAAAC/oguri-cap-umamusume.gif" width="150"/>
-  <img src="https://media.tenor.com/Wz8X8X8X8X8AAAAC/gold-ship-umamusume.gif" width="150"/>
+  <img src="https://tenor.com/t0gJavnHwmf.gif" width="120"/>
+  <img src="https://tenor.com/bIqEfu1MG0n.gif" width="120"/>
+  <img src="https://tenor.com/pkCMmgSo1Qh.gif" width="120"/>
+  <img src="https://tenor.com/ti3BiR0WgWS.gif" width="120"/>
 </div>
 
 ---
