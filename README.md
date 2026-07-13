@@ -155,14 +155,6 @@ public:
 
 ---
 
-## Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=negussmr&theme=darkhub&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
 ## Current Learning
 
 - Embedded Linux
