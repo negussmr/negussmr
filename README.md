@@ -9,9 +9,8 @@
 > *Building reliable systems through continuous iteration.*
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Embedded+Systems;Robotics;PCB+Design;Control+Systems;Hardware+%2B+Software;Engineering+Without+Compromise" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Embedded+Systems;Robotics;PCB+Design;Control+Systems;Hardware+%2B+Software;Building+Systems+That+Last;Design.+Test.+Improve.;Engineering+Through+Iteration;Turning+Ideas+Into+Hardware;Precision+Over+Complexity;Reliability+Is+Designed;From+PCB+to+Firmware;Open+Source+Engineering;Always+Learning;One+Iteration+Ahead" alt="Typing Animation" />
 </p>
-
 ---
 
 ## About
