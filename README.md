@@ -1,4 +1,11 @@
-
+<p align="center">
+  <img
+    src="./assets/banner.gif"
+    alt="Seth Banner"
+    width="100%"
+    style="border-radius: 12px;"
+  >
+</p>
 # Seth
 
 ### Systems Architect • Embedded Systems Engineer • Robotics Developer
