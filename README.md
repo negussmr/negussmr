@@ -60,7 +60,7 @@ I believe engineering is an iterative process where careful measurement, thought
 ---
 
 <p align="center">
-  <img src="./assets/body.gif" alt="Seth body" width="1000">
+  <img src="./assets/body.gif" alt="Seth body" width="400">
 </p>
 
 ## Featured Projects
@@ -186,7 +186,7 @@ public:
 ---
 
 <p align="center">
-  <img src="./assets/end.gif" alt="Seth end" width="1000">
+  <img src="./assets/end.gif" alt="Seth end" width="400">
 </p>
 
 <p align="center">
