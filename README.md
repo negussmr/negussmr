@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="Seth Banner" width="1000">
+  <img src="./assets/banner.gif" alt="Seth Banner" width="100">
 </p>
 
 # Seth
