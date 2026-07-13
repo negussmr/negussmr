@@ -59,6 +59,10 @@ I believe engineering is an iterative process where careful measurement, thought
 
 ---
 
+<p align="center">
+  <img src="./assets/body.gif" alt="Seth body" width="1000">
+</p>
+
 ## Featured Projects
 
 ### High-Speed Line Tracing Robot
@@ -180,6 +184,10 @@ public:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunmoshi521@gmail.com)
 
 ---
+
+<p align="center">
+  <img src="./assets/end.gif" alt="Seth end" width="1000">
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=negussmr&style=for-the-badge&color=grey"/>
