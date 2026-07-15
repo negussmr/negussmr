@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-●%20●%20●-38BDF8?style=flat-square&labelColor=38BDF8" alt="divider">
 </p>
 
-## 🧭 About
+##  About
 
 I design embedded systems that bridge hardware and software with an emphasis on reliability, maintainability, and performance. My projects range from autonomous robotics and embedded firmware to PCB design, mechanical design, and engineering simulation.
 
@@ -26,7 +26,7 @@ I believe engineering is an iterative process where careful measurement, thought
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 **Embedded Systems**
 
@@ -54,7 +54,7 @@ I believe engineering is an iterative process where careful measurement, thought
 
 ---
 
-## ⚙️ Engineering Domains
+##  Engineering Domains
 
 <p>
 <img src="https://img.shields.io/badge/Embedded%20Firmware-38BDF8?style=flat-square&logoColor=white" alt=""/>
@@ -74,28 +74,28 @@ I believe engineering is an iterative process where careful measurement, thought
   <img src="./assets/body.gif" alt="Seth body" width="400">
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏎️ High-Speed Line Tracing Robot
+###  High-Speed Line Tracing Robot
 - Multi-sensor TCRT5000 array
 - High-speed PID control
 - ESP32 / STM32 implementations
 - Modular electronics
 
-### 🔌 Smart Modular Power Distribution
+###  Smart Modular Power Distribution
 - ESP32 powered
 - Firebase integration
 - MIT App Inventor companion application
 - Modular relay architecture
 
-### 🧩 Embedded Controller Boards
+###  Embedded Controller Boards
 - Custom KiCad PCBs
 - Compact embedded control
 - Hardware-software co-design
 
 ---
 
-## 💡 Engineering Principles
+##  Engineering Principles
 
 ```text
 Reliability > Complexity
@@ -107,7 +107,7 @@ Systems > Components
 
 ---
 
-## 🔄 Development Workflow
+##  Development Workflow
 
 ```mermaid
 flowchart TD
@@ -129,7 +129,7 @@ flowchart TD
 
 ---
 
-## 🧠 Philosophy
+##  Philosophy
 
 ```cpp
 class Engineering {
@@ -147,7 +147,7 @@ public:
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=negussmr&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -160,7 +160,7 @@ public:
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=negussmr&theme=tokyo-night&hide_border=true"/>
@@ -168,7 +168,7 @@ public:
 
 ---
 
-## 📚 Current Learning
+##  Current Learning
 
 <p>
 <img src="https://img.shields.io/badge/Embedded%20Linux-38BDF8?style=flat-square&logoColor=white" alt=""/>
@@ -183,7 +183,7 @@ public:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 <p>
 <a href="https://github.com/negussmr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
